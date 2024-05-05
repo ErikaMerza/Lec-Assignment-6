@@ -1,4 +1,4 @@
-# Lab-Assignment-6
+# Lec-Assignment-6
 
 Improve the following codes to implement SOLID principles in OOP.
 
